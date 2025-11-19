@@ -13,6 +13,10 @@ export const Navbar = () => {
     {
       label: "Blogs",
       href: "/blogs"
+    },
+    {
+      label: "Create",
+      href: "/create-blog"
     }
   ]
   return (
